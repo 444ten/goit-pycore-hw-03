@@ -1,0 +1,5 @@
+Alex Korp,3000
+Сергій Вух
+Nikita Borisenko,2000
+Tom, wrong salary
+Sitarama Raju,1000
