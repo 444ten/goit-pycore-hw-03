@@ -33,5 +33,7 @@ def total_salary(path: str):
         return 0, 0
 
 
-total, average = total_salary("task_1_storage/salary.txt")
+path = "sample/salary.txt"
+
+total, average = total_salary(path)
 print(f"Загальна сума заробітної плати: {total}, Середня заробітна плата: {average}")
